@@ -1,0 +1,28 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+.like__btn {
+  padding: 1px 5px;
+  background: #0080ff;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 5px;
+  color: #e8efff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 100px;
+}
+  
+.card{
+    display: flex;
+}
+a{
+    margin-left: 72px;
+    
+}
+h5{
+    margin-left: 80px;
+}
+.d1{
+    margin-left: 90px;
+}
